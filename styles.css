@@ -144,8 +144,7 @@ nav ul li a.active {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLadYJXBvMURomT74yhrh5o8ooUNmtJhS-pA&s') center/cover;
-    opacity: 0.15;
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .hero .container {
